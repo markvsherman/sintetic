@@ -1,6 +1,6 @@
 @extends('layouts.layout')
 @section('content')
-<h1 class="h2">Projects</h1>
+<h1 class="h2">Projects_master</h1>
 <p>Path: {{ Request::path() }} </p>
 
 
